@@ -88,7 +88,7 @@ hr {
 }
 .card_footer img {
   width: 60px;
-  border: 1px solid snow;
+  border: 1px solid #fff;
   border-radius: 50%;
 }
 .card_footer a {
@@ -124,8 +124,8 @@ hr {
 
 /* MOBILE RESPONSIVE */
 
-@media (max-width:420px){
-    .attribution{
-        display: none;
-    }
+@media (max-width:520px){
+   .card_container{
+    margin:0 1.6rem;
+   }
 }
