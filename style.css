@@ -125,7 +125,7 @@ hr {
 /* MOBILE RESPONSIVE */
 
 @media (max-width:520px){
-   .card_container{
-    margin:0 1.6rem;
+   .attribution{
+    display: none;
    }
 }
